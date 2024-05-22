@@ -88,7 +88,7 @@ p {
 .content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    /* display: inline-block; */
+    display: inline-block;
 }
 
 .content div img {
